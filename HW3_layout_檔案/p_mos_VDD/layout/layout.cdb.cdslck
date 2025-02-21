@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      r2945070
+HostName                       cad21.ee.ntu.edu.tw
+ProcessIdentifier              6114
+ProcessCreationTime_UTC        1730562930
+ProcessCreationTime_Readable   Sat Nov  2 23:55:30 2024 CST
+AppIdentifier                  /usr/cad/cadence/IC/cur/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /home/raid7_2/user12/r2945070/hw3/ICD_lib/p_mos_VDD/layout/layout.cdb
+TimeEditLocked                 Sun Nov  3 02:13:21 2024 CST
