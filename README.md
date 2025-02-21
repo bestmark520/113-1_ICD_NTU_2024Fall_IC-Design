@@ -1,0 +1,2 @@
+# 113-1_ICD_NTU_2024Fall_IC-Design
+113-1_簡韶逸_積體電路設計_ICD_NTU_2024Fall_IC Design
